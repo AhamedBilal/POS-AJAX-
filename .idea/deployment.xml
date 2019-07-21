@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="POS_AJAX">
+    <serverData>
+      <paths name="POS_AJAX">
+        <serverdata>
+          <mappings>
+            <mapping deploy="POS(ajax)" local="$PROJECT_DIR$" web="/POS(ajax)" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
