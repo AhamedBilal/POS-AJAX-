@@ -1,2 +1,2 @@
 #POS(AJAX)
-using AJAX jQuery
+using AJAX jQuery php js
